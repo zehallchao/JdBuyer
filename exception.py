@@ -8,3 +8,5 @@ class JDException(Exception):
     def __init__(self, message):
         super().__init__(message)
         logger.error(message)
+"SDD
+
